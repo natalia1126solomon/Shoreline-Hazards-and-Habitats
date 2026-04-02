@@ -20,3 +20,5 @@ We have seen through many examples in past years about how coastal habitats have
 - Docs, references and resources
 
 **Author**
+
+Natalia Solomon
